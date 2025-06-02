@@ -1,5 +1,6 @@
 Summary:
-Opens up single instance of MS Edge with 5 tabs to the popmart URL.
+Opens up single instance of MS Edge with 5 tabs to the popmart URL.  
+- Command allows input of any set Number, any product ID, and allows the increment number to be auto incremented within the 5 tabs. Tabs are not opened at the same time (there is a random delay built in).
 
 How to use:
 1. Download the labuAuto.ps1 script to your download folder.
